@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.container {
+    display: flex;
+
+
+}
+
+.t {   
+    width: 350px;
+    height: 180px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    border-right: 1px solid red;
+    border-top: 1px solid red;
+}
+
+
+
+.r {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(221, 12, 179);
+}
+
+.rr {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(4, 223, 8);
+}
+
+.q,
+.w {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.e {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 700;
+    color: blue;
+}
+
+
