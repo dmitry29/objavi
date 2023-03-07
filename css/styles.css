@@ -6,8 +6,6 @@ body {
 
 .container {
     display: flex;
-
-
 }
 
 .t {   
@@ -20,18 +18,10 @@ body {
     border-top: 1px solid red;
 }
 
-
-
 .r {
     margin: 0;
     font-size: 25px;
-    color: rgb(221, 12, 179);
-}
-
-.rr {
-    margin: 0;
-    font-size: 25px;
-    color: rgb(4, 223, 8);
+    color: rgba(11, 122, 1, 0.618);
 }
 
 .q,
@@ -46,5 +36,46 @@ body {
     font-weight: 700;
     color: blue;
 }
+
+.d {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* -------------page8------------- */
+.z {   
+    width: 700px;
+    height: 360px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    
+}
+
+.x {
+    margin: 0;
+    font-size: 50px;
+    color: rgba(11, 122, 1, 0.618);
+}
+
+.c,
+.v {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+
+.b {
+    margin: 0;
+    font-size: 35px;
+    font-weight: 700;
+    color: blue;
+}
+
+/* ----------------------------------- */
+
+
 
 
